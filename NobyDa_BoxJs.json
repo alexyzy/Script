@@ -449,6 +449,29 @@
       "val": false,
       "type": "boolean",
       "desc": "用于调试脚本, 一般用户请勿开启."
+    }, {
+      "id": "@TESTFLIGHT-ACCOUNT.EnableCache",
+      "name": "启用缓存",
+      "val": true,
+      "type": "boolean",
+      "desc": "用于缓存APP列表, 改善列表页面加载过慢，需与\"请求超时\"配合使用。开启缓存并刷新列表后，可适当调小超时"
+    }, {
+      "id": "@TESTFLIGHT-ACCOUNT.Timeout",
+      "name": "请求超时",
+      "val":"",
+      "type": "number",
+      "placeholder": "30",
+      "desc": "默认为30, 单位: 秒"
+    }, {
+      "id": "@TESTFLIGHT-ACCOUNT.ForceIOSlist",
+      "name": "使用iOS应用列表",
+      "val": false,
+      "type": "boolean",
+      "desc": "强制使用iOS应用列表, 用于改善 macOS TestFlight 加载过慢, iOS用户无需开启"
+    }],
+    "scripts": [{
+      "name": "清除缓存",
+      "script": "https://gist.githubusercontent.com/NobyDa/d025c53d3922657f921b983ce129fc1d/raw/TestFlightAccountRemoveCache.js"
     }],
     "author": "@NobyDa",
     "repo": "https://github.com/NobyDa/Script/blob/master/TestFlight/TestFlightAccount.js",

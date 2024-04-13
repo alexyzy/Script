@@ -1,4 +1,4 @@
-# Update > 2022/08/01
+# Update > 2023/12/23
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,comet.yahoo.com,REJECT
@@ -135,7 +135,6 @@ DOMAIN-SUFFIX,m-78.jp,REJECT
 DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
 DOMAIN-SUFFIX,nicorette.co.kr,REJECT
 DOMAIN-SUFFIX,adnet.sohu.com,REJECT
-DOMAIN-SUFFIX,data.vod.itc.cn,REJECT
 DOMAIN-SUFFIX,epro.sogou.com,REJECT
 DOMAIN-SUFFIX,go.sohu.com,REJECT
 DOMAIN-SUFFIX,golden1.sogou.com,REJECT
@@ -167,7 +166,6 @@ DOMAIN-SUFFIX,ad.video.51togic.com,REJECT
 DOMAIN-SUFFIX,biz5.kankan.com,REJECT
 DOMAIN-SUFFIX,c.algovid.com,REJECT
 DOMAIN-SUFFIX,cms.laifeng.com,REJECT
-DOMAIN-SUFFIX,da.mmarket.com,REJECT
 DOMAIN-SUFFIX,dotcounter.douyutv.com,REJECT
 DOMAIN-SUFFIX,g.uusee.com,REJECT
 DOMAIN-SUFFIX,gcdn.2mdn.net,REJECT
@@ -2012,7 +2010,6 @@ DOMAIN-SUFFIX,cc.yac8.com,REJECT
 DOMAIN-SUFFIX,cca.mob.com,REJECT
 DOMAIN-SUFFIX,ccb.uncle-ad.com,REJECT
 DOMAIN-SUFFIX,ccbaihehq.com,REJECT
-DOMAIN-SUFFIX,ccclub.cmbchina.com,REJECT
 DOMAIN-SUFFIX,cccrir.com,REJECT
 DOMAIN-SUFFIX,ccr.yxdown.com,REJECT
 DOMAIN-SUFFIX,cctyly.com,REJECT
